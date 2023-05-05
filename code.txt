@@ -2,13 +2,14 @@
  class Even {
 
 	public static void main(String[] args) {
-		
+		Systom.out.println("print even number")
 		int i;
 		for( i=1;i<=20;i++) {
 		
 	if(i%2==0 ) {
 		
 	System.out.print(i+ " ");
+
 
 	}
 	if(i==16) {
