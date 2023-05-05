@@ -1,0 +1,21 @@
+public class ifelse {
+
+	public static void main(String[] args) {
+	int y=1000;
+	if(y!=10)
+	{
+		System.out.println("welcome2");
+	} 
+	else 
+		System.out.println("hello");
+	
+	 
+	boolean p=false;
+
+	if(p==false) {
+		System.out.println("welcome3334785877");
+		
+	}
+	}
+
+}
